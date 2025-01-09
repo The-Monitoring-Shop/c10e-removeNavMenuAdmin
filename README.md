@@ -1,1 +1,1 @@
-# c10e-hideNavMenu
+# c10e-removeNavMenuAdmin
